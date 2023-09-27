@@ -1,9 +1,13 @@
 
 
+import Laptop from './Laptop';
 
 function App() {
   return (
-    <h1>Learning react</h1>
+    <>
+    <Laptop/>
+    
+    </>
   );
 }
 

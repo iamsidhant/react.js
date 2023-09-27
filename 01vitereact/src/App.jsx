@@ -1,11 +1,15 @@
 
 
+import Laptop from "./laptop"
+
 function App() {
 
 
   return (
     <>
-      <h1>Learning react with vite</h1>
+      <Laptop/>
+      <h1>laptop aur react</h1>
+      <p>test para</p>
     </>
   )
 }
